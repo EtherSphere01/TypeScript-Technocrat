@@ -71,6 +71,6 @@
       price: 500,
       model: "Samsung Galaxy Watch 4",
       sensor: "Heart Rate Monitor",
-    }, j
+    }, 
   };
 }
